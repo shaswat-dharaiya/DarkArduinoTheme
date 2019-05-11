@@ -53,7 +53,7 @@ editor.linehighlight.color=#333333
 editor.linehighlight=true
 
 # caret blinking and caret color
-editor.caret.color = #a0a0a0
+editor.caret.color = #ffffff
 
 # color to be used for background when 'external editor' enabled
 editor.external.bgcolor = #202020
@@ -66,11 +66,11 @@ editor.invalid.style = #7e7e7e,bold
 
 # little pooties at the end of lines that show where they finish
 editor.eolmarkers = false
-editor.eolmarkers.color = #999999
+editor.eolmarkers.color = #ffffff
 
 # bracket/brace highlighting
 editor.brackethighlight = true
-editor.brackethighlight.color = #006699
+editor.brackethighlight.color = #ffffff
 
 
 # TEXT - KEYWORDS
